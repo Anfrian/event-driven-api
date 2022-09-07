@@ -1,1 +1,1 @@
-# event-driven api with redis python fastapi react
+# event driven api with redis python fastapi react
